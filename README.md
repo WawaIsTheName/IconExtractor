@@ -1,7 +1,10 @@
 # IconExtractor
 I made this because I couldn't find a good I could use.
 
-⚠️ If you plan on using this please note that you will need to install Python. The version of Python I used when making this was 3.13 I believe, so i'd recommend installing that version. It's pretty simple to use as long as you've used a console atleast once in your life.
+Windows 7+ required
+Python 3.6+ required
+
+⚠️ If you plan on using this please note that you will need to install Python. It's pretty simple to use as long as you've used a console atleast once in your life.
 
 If you don't have much storage it'd to be recommended that you gain some incase the file you want to extract icon's from doesnt contain any!
 
